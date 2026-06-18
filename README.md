@@ -8,7 +8,6 @@
 [![LangChain](https://img.shields.io/badge/LangChain-LLM%20Framework-121212?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.langchain.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-Compatible-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![Tavily](https://img.shields.io/badge/Tavily-Web%20Search-FF6B35?style=for-the-badge)](https://tavily.com/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
 
 ---
